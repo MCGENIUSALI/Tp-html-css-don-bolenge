@@ -61,11 +61,45 @@
     border: 1px solid black;
     font-size: 15px;
 }
-.div3{
+
+.input3{
+    
+}
+
+.div3 .input2 .input3{
     margin-top: 15px;
+    display: flex;
 }
 
 .di4{
+    margin-top: 15px;
+}
+
+
+.div5{
+    margin-top: 15px;
+}
+
+.div6{
+    margin-top: 15px;
+}
+
+.list{
+    width:530px;
+    margin-left: 20px;
+    height: 20px;
+}
+
+.list option{
+    height: 20px;
+}
+
+.radio{
+    margin-left: 20px;
+}
+
+.button{
+    text-align: center;
     margin-top: 15px;
 }
 
