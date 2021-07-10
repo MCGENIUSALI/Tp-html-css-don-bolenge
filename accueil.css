@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: century gothic;
+}
+
+.container .menu{
+    background-color: rgb(44, 44, 44);
+    font-family: century gothic;
+    width: 100%;
+
+}
+
+.container .menu ul, 
+.container .menu ul li{
+    display: inline-block;
+    list-style: none;
+    color:white;
+} 
+
+.container .menu ul li:hover{
+    transition: .6s;
+    background-color:rgb(12, 12, 12);
+}
+
+.container .menu ul li{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.container .menu ul li a{
+    color:white;
+    text-decoration: none;
+}
+
+.menu-droit{
+   margin-left: 60px;
+}
+
+h2{
+    text-align: center;
+    padding-top: 40px;
+    color:rgb(0, 83, 83);
+}
+
+p{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.video{
+    width:360px;
+}
+
+.video1{
+    border:1px solid orangered;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    width: 360px;
+    margin:10px;
+    padding-bottom: 10px;
+}
+
+.video2{
+    border:1px solid orangered;
+    padding-top: 10px;
+    width: 360px;
+    margin:10px;
+    padding-bottom: 10px;
+}
+
+.video3{
+    border:1px solid orangered;
+    padding-top: 10px;
+    width: 360px;
+    margin:10px;
+    padding-bottom: 10px;
+}
+
+.videos{
+    display: inline-flex;
+    margin-left:110px;
+    margin-top:50px;
+}
+
+label{
+    padding:20px;
+    color:rgb(0, 60, 255)
+}
+
