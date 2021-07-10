@@ -19,7 +19,12 @@
 } 
 
 .container .menu ul li:hover{
-    transition: .6s;
+    transition: .5s;
+    background-color:rgb(12, 12, 12);
+}
+
+.container .menu ul li:hover{
+    transition: .5s;
     background-color:rgb(12, 12, 12);
 }
 
