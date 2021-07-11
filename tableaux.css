@@ -1,0 +1,19 @@
+table{
+    margin-left: 190px;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+tr, td{
+    padding: 4px 20px;
+    border: 1px solid black;
+}
+
+td{
+    text-align: center;
+}
+
+thead{
+    background-color: rgb(224, 224, 224);
+    font-weight: bold;
+}
