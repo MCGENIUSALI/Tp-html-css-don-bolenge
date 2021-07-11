@@ -43,7 +43,7 @@
 }
 
 .input3{
-    width: 300px;
+    width: 250px;
     height: 35px;
     margin-left: 21px;
     outline-color: rgb(0, 140, 255);
@@ -83,14 +83,11 @@
 }
 
 .list{
-    width:530px;
+    width:560px;
     margin-left: 20px;
     height: 20px;
 }
 
-.list option{
-    height: 20px;
-}
 
 .radio{
     margin-left: 20px;
@@ -101,6 +98,23 @@
     margin-top: 15px;
 }
 
+
+.submit{
+    padding:13px 90px;
+    background-color: white;
+    border:1px solid black;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.reset{
+    padding:13px 90px;
+    border: 1px solid rgb(255, 70, 37);
+    background-color: rgb(255, 70, 37);
+    color:white;
+    font-weight: bold;
+    border-radius: 4px;
+}
 form{
     display: block;
     padding: 30px 370px;
