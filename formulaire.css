@@ -105,6 +105,7 @@
     border:1px solid black;
     border-radius: 4px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .reset{
@@ -114,6 +115,7 @@
     color:white;
     font-weight: bold;
     border-radius: 4px;
+    cursor: pointer;
 }
 form{
     display: block;
